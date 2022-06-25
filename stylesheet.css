@@ -11,4 +11,10 @@ box-sizing: border-box;}
     font-weight: bold;
 }
 
-
+.row{
+    width: 90%;
+    border: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+}
