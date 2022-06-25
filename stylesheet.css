@@ -1,0 +1,14 @@
+*{font-family:"Comic Sans MS",cursive, sans-serif;
+box-sizing: border-box;}
+
+.title-container{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    font-size: 175%;
+    font-weight: bold;
+}
+
+
