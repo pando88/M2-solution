@@ -61,7 +61,6 @@ box-sizing: border-box;}
     }
     .col-md-6{
         width:50%;
-        height:auto;
     }
     .col-md-12{
         width:100%;
